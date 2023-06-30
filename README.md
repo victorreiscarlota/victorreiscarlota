@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/690692026215170061/1124161578074390649/star.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victor-010&label=Profile%20views&color=0e75b6&style=flat" alt="victor-010" /> </p>
 
