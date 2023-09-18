@@ -1,10 +1,16 @@
-<div align="center">
-  <img height="150" src="https://cdn.discordapp.com/attachments/690692026215170061/1124161578074390649/star.gif"  />
-</div>
+<h1 align="center">Hello  there!✌️</h1>
 
 ###
 
 <div align="center">
+  <img height="300" src="https://cdn.discordapp.com/attachments/690692026215170061/1124161578074390649/star.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
   <a href="https://www.linkedin.com/in/victor-reis-6a3a01273/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B8&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -15,15 +21,7 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=victorreiscarlota.victorreiscarlota&right_color=darkcyan&left_text=Profile views"  />
-</div>
-
-###
-
-<h1 align="center">Hello  there!✌️</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=victorreiscarlota.victorreiscarlota&right_color=darkcyan&left_text=Profile views"  />
 
 ###
 
