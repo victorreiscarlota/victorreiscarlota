@@ -2,9 +2,9 @@
 <h3 align="center">A fullstack developer from Brazil!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/690692026215170061/1124161578074390649/star.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=victor-010&label=Profile%20views&color=0e75b6&style=flat" alt="victor-010" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=victor-010&label=Profile%20views&color=0e75b6&style=flat" alt="victorreiscarlota" /> </p>
 
-- 🔭 I’m currently working on [Registration program](https://github.com/victor-010/TP-AED-I-FDES)
+- 🔭 I’m currently working on [Registration program](https://github.com/victorreiscarlota/TP-AED-I-FDES)
 
 - 🌱 I’m currently learning **React, Threejs, C#**
 
