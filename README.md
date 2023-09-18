@@ -21,7 +21,7 @@
 
 ###
 
-<img align="right" src="![](https://komarev.com/ghpvc/?username=victorreiscarlota)  />
+<img align="right" src="https://komarev.com/ghpvc/?username=victorreiscarlota />
 
 ###
 
