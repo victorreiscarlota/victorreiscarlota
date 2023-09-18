@@ -21,7 +21,7 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=victorreiscarlota.victorreiscarlota&right_color=darkcyan&left_text=Profile views"  />
+<img align="right" src="![](https://komarev.com/ghpvc/?username=victorreiscarlota)  />
 
 ###
 
