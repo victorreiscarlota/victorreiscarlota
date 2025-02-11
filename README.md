@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Victor Reis, from Brazil<br><br>- 🔭 I’m working as freelance developer<br>- 📚 I'm currently learning Java Spring boot<br>- ⚡ In my free time I like to draw cute things</p>
+<p align="left">I'm Victor Reis, from Brazil<br><br>- 🔭 I’m working as freelance developer<br>- 📚 I'm currently learning AWS CloudFormation <br>- ⚡ In my free time I like to draw cute things</p>
 
 ###
 
