@@ -71,9 +71,11 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=victorreiscarlota&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+</div> -->
+
+![victorreiscarlota's Streak](https://github-readme-streak-stats.herokuapp.com/?user=victorreiscarlota&theme=dark&hide_border=false)
 
 ![victorreiscarlota's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorreiscarlota&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
