@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://cdn.discordapp.com/attachments/690692026215170061/1124161578074390649/star.gif"  />
+  <img height="300" src="star.gif"  />
 </div>
 
 ###
@@ -74,5 +74,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=victorreiscarlota&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+![victorreiscarlota's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorreiscarlota&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ###
