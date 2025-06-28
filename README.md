@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B8&logoColor=white&labelColor=" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://carlotavictor.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-purple?logo=gleam&logoColor=white&color=purple" />
+    <img src="https://img.shields.io/badge/Portfolio-purple?logo=gleam&logoColor=white" />
   </a>
 </div>
 
