@@ -11,21 +11,12 @@
 
 <br clear="both">
 
-
 <div align="left">
   <a href="https://www.linkedin.com/in/victor-reis-6a3a01273/" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?label=LinkedIn&message=&color=0077B8&logo=linkedin&logoColor=white&style=for-the-badge"
-      height="25"
-      alt="LinkedIn badge"
-    />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B8&logoColor=white&labelColor=" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://carlotavictor.vercel.app" target="_blank" style="margin-left: 8px;">
-    <img
-      src="https://img.shields.io/static/v1?label=Portfolio&message=&color=800080&logo=star&logoColor=white&style=for-the-badge"
-      height="25"
-      alt="Portfolio badge"
-    />
+  <a href="https://carlotavictor.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-purple?logo=gleam&logoColor=white&color=purple" height="25" alt="portfolio" />
   </a>
 </div>
 
