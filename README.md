@@ -13,10 +13,20 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/victor-reis-6a3a01273/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B8&logoColor=white&labelColor=" height="25" alt="linkedin logo"  />
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B8&logoColor=white&style=for-the-badge"
+      height="25"
+      style="vertical-align: middle;"
+      alt="LinkedIn"
+    />
   </a>
   <a href="https://carlotavictor.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-purple?logo=gleam&logoColor=white" />
+    <img
+      src="https://img.shields.io/static/v1?message=Portfolio&logo=gleam&color=800080&logoColor=white&style=for-the-badge"
+      height="25"
+      style="vertical-align: middle;"
+      alt="Portfolio"
+    />
   </a>
 </div>
 
