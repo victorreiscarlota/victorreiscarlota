@@ -15,8 +15,8 @@
   <a href="https://www.linkedin.com/in/victor-reis-6a3a01273/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B8&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/22152962/vitutivu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  <a href="https://carlotavictor.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-purple?logo=gleam&logoColor=white&color=purple" />
   </a>
 </div>
 
